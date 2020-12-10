@@ -31,7 +31,7 @@ DinicFlow.cpp	Dinic Flow
 MinCostMaxFlow.cpp	Min Cost-Max Flow
 Hungarian.cc	Hungarian Algorithm
 Eulerian.cc	Eulerian Path/Circuit
-2SAT.cc	2-SAT
+2SAT.cpp	2-SAT
 match.cpp	matching
 TJALG.cpp	Tajan
 tplt.cpp	strongly connect
