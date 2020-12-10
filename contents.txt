@@ -3,52 +3,52 @@ CountPrimes.cc	Count primes up to N
 PollardRho.cc	Pollard Rho
 Cubic.cc	Cubic
 PythagoreTriple.cc	PythagoreTriple
-EUCLID.cpp  PT: ax + by = gcd(x,y)
+EUCLID.cpp	PT: ax + by = gcd(x,y)
 
 [String]
-SuffixArray.cpp Suffix Array
-aho_corasick.cpp    Aho Corasick
+SuffixArray.cpp	Suffix Array
+aho_corasick.cpp	Aho Corasick
 Zalgo.cc	Z algorithm
-manacher.cpp    Manacher
-kmp.cpp KMP
+manacher.cpp	Manacher
+kmp.cpp	KMP
 
 [Combinatorial optimization]
 
 [Geometry]
 Geometry.cc	Geometry
-DP_convex.cpp   Convex Hull Trick
-Convex.cpp  Convex
+DP_convex.cpp	Convex Hull Trick
+Convex.cpp	Convex
 
 [Numerical algorithms]
-FFT.cpp FFT
-FFTMOD.cpp  FFTMOD
-Bitwise-FFT.cc  Bitwise FFT
+FFT.cpp	FFT
+FFTMOD.cpp	FFTMOD
+Bitwise-FFT.cc	Bitwise FFT
 Interpolation_chemthan.cc	Interpolation
 DiophanteMod.cc	DiophanteMod
 
 [Graph algorithms]
-DinicFlow.cpp   Dinic Flow
-MinCostMaxFlow.cpp  Min Cost-Max Flow
+DinicFlow.cpp	Dinic Flow
+MinCostMaxFlow.cpp	Min Cost-Max Flow
 Hungarian.cc	Hungarian Algorithm
-Eulerian.cc Eulerian Path/Circuit
-2SAT.cc 2-SAT
-match.cpp   matching
-TJALG.cpp   Tajan
-tplt.cpp    strongly connect
-HLD.cpp Heavy Light Decompostion
-cau_khop.cpp    Cau va Khop
+Eulerian.cc	Eulerian Path/Circuit
+2SAT.cc	2-SAT
+match.cpp	matching
+TJALG.cpp	Tajan
+tplt.cpp	strongly connect
+HLD.cpp	Heavy Light Decompostion
+cau_khop.cpp	Cau va Khop
 
 
 [Data structures]
 BigInt.cc	Big Integer
 ITConvexHull.cc	Convex Hull IT
-LCA_O(1).cpp    LCA O(1)
-MoAlog.cpp  Mo's algorithm
-MoTree.cpp  Mo's Tree
-splay_tree.cpp  Splay Tree
-dsu_rollback.cpp    DSU Rollback
-BIT2D_op.cpp    BIT2D O(n.logn.logn)
-IT_beats.cpp    Segment Tree Beats 
-IT_line.cpp Segment Tree Line 
-IT_persistent.cpp   Segment Tree Persistent
+LCA_O(1).cpp	LCA O(1)
+MoAlog.cpp	Mo's algorithm
+MoTree.cpp	Mo's Tree
+splay_tree.cpp	Splay Tree
+dsu_rollback.cpp	DSU Rollback
+BIT2D_op.cpp	BIT2D O(n.logn.logn)
+IT_beats.cpp	Segment Tree Beats
+IT_line.cpp	Segment Tree Line
+IT_persistent.cpp	Segment Tree Persistent
 
