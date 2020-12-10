@@ -1,55 +1,54 @@
 [Number theory]
 CountPrimes.cc	Count primes up to N
-ExtendedEuclide.cc	Extended Euclide
-SystemLinearEquations.cc	System of linear equations
 PollardRho.cc	Pollard Rho
-Formula.txt	Formula
 Cubic.cc	Cubic
 PythagoreTriple.cc	PythagoreTriple
+EUCLID.cpp PT: ax + by = gcd(x,y)
 
 [String]
-SuffixArray.cc	Suffix Array
-AhoCorasick.cc	Aho Corasick
+SuffixArray.cpp	Suffix Array
+aho_corasick.cpp	Aho Corasick
 Zalgo.cc	Z algorithm
-Manacher.cc	Manacher
-SuffixAutomaton.cc	Suffix Automaton
-ALCS.cc	ACLS
-Eertree.cc	Palindromic Tree
+manacher.cpp Manacher
+kmp.cpp KMP
 
 [Combinatorial optimization]
 
 [Geometry]
 Geometry.cc	Geometry
+DP_convex.cpp Convex Hull Trick
+Convex.cpp Convex
 
 [Numerical algorithms]
-Gauss.cc	Gauus Elimination
-LPSolver.cc	Simplex Algorithm
-NTT.cc	NTT
-FFT.cc	FFT
+FFT.cpp FFT
+FFTMOD.cpp FFTMOD
 Bitwise-FFT.cc	Bitwise FFT
-FFT_chemthan.cc	FFT chemthan
 Interpolation_chemthan.cc	Interpolation
-BinaryVector.cc	Binary vector space
 DiophanteMod.cc	DiophanteMod
 
 [Graph algorithms]
-BridgesArticulations.cc	Bridges and Articulations
-BipartiteMatching.cc	Bipartite Maximum Matching
-Blossom.cc	General Matching
-DinicFlow.cc	Dinic Flow
-MinCostMaxFlow.cc	Min Cost-Max Flow
-BoundedFlow.cc	Bounded Feasible Flow
+DinicFlow.cpp	Dinic Flow
+MinCostMaxFlow.cpp	Min Cost-Max Flow
 Hungarian.cc	Hungarian Algorithm
-MinCut.cc	Undirected mincut
 Eulerian.cc	Eulerian Path/Circuit
-TwoSAT.cc	2-SAT
-SPFA.cc SPFA
+2SAT.cc	2-SAT
+match.cpp matching
+TJALG.cpp Tajan
+tplt.cpp strongly connect
+HLD.cpp Heavy Light Decompostion
+cau_khop.cpp Cau va Khop
+
 
 [Data structures]
-Treap.cc	Treap
 BigInt.cc	Big Integer
 ITConvexHull.cc	Convex Hull IT
-LinkCutTree.cc	Link Cut Tree
+LCA_O(1).cpp LCA O(1)
+MoAlog.cpp Mo's algorithm
+MoTree.cpp Mo's Tree
+splay_tree.cpp Splay Tree
+dsu_rollback.cpp DSU Rollback
+BIT2D_op.cpp BIT2D O(n.logn.logn)
+IT_beats.cpp Segment Tree Beats 
+IT_line.cpp Segment Tree Line 
+IT_persistent.cpp Segment Tree Persistent
 
-[Miscellaneous]
-RNG.cc	RNG
