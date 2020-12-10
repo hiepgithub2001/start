@@ -40,7 +40,6 @@ cau_khop.cpp	Cau va Khop
 
 
 [Data structures]
-BigInt.cc	Big Integer
 ITConvexHull.cc	Convex Hull IT
 LCA_O(1).cpp	LCA O(1)
 MoAlog.cpp	Mo's algorithm
