@@ -1,0 +1,1 @@
+"E:\setting\Themis\gcc\bin\g++.exe" -o"%NAME%.exe" "%NAME%%EXT%" -std=c++11 -O2 -s -static -Wl,--stack,66060288 -lm -x c++|@WorkDir=%PATH%

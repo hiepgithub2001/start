@@ -1,0 +1,11 @@
+-Cho hai diem A(x1,y1),B(x2,y2), phuong trình di qua hai diem A,B là : 
+X(y2-y1)-Y(x2-x1) + y1x2-x1y2=0 
+
+-Khoang cach giua diem M(x0,y0) và duong thang (delta) ax + by + c = 0
+ la : d(M,delta) = |a * x0 + b * y0 + c| / sqrt(a^2 + b^2)
+
+- Dien tich da giac loi (x1,y1),(x2,y2),...,(xn,yn) 
+  (theo xuôi/nguoc chieu kim dong ho duoc tính là):
+  S = |(x1 - x2) * (y1 + y2) + (x2 - x3) * (y2 + y3) + ... 
+       + (xn - x1) * (yn + y1)| / 2
+ 
