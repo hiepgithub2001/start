@@ -1,0 +1,55 @@
+[Number theory]
+CountPrimes.cc	Count primes up to N
+ExtendedEuclide.cc	Extended Euclide
+SystemLinearEquations.cc	System of linear equations
+PollardRho.cc	Pollard Rho
+Formula.txt	Formula
+Cubic.cc	Cubic
+PythagoreTriple.cc	PythagoreTriple
+
+[String]
+SuffixArray.cc	Suffix Array
+AhoCorasick.cc	Aho Corasick
+Zalgo.cc	Z algorithm
+Manacher.cc	Manacher
+SuffixAutomaton.cc	Suffix Automaton
+ALCS.cc	ACLS
+Eertree.cc	Palindromic Tree
+
+[Combinatorial optimization]
+
+[Geometry]
+Geometry.cc	Geometry
+
+[Numerical algorithms]
+Gauss.cc	Gauus Elimination
+LPSolver.cc	Simplex Algorithm
+NTT.cc	NTT
+FFT.cc	FFT
+Bitwise-FFT.cc	Bitwise FFT
+FFT_chemthan.cc	FFT chemthan
+Interpolation_chemthan.cc	Interpolation
+BinaryVector.cc	Binary vector space
+DiophanteMod.cc	DiophanteMod
+
+[Graph algorithms]
+BridgesArticulations.cc	Bridges and Articulations
+BipartiteMatching.cc	Bipartite Maximum Matching
+Blossom.cc	General Matching
+DinicFlow.cc	Dinic Flow
+MinCostMaxFlow.cc	Min Cost-Max Flow
+BoundedFlow.cc	Bounded Feasible Flow
+Hungarian.cc	Hungarian Algorithm
+MinCut.cc	Undirected mincut
+Eulerian.cc	Eulerian Path/Circuit
+TwoSAT.cc	2-SAT
+SPFA.cc SPFA
+
+[Data structures]
+Treap.cc	Treap
+BigInt.cc	Big Integer
+ITConvexHull.cc	Convex Hull IT
+LinkCutTree.cc	Link Cut Tree
+
+[Miscellaneous]
+RNG.cc	RNG

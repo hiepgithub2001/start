@@ -1,0 +1,75 @@
+Counting spanning trees - D
+#Linear programming - Q
+	https://www.hackerearth.com/submission/20905850/
+	https://codeforces.com/contest/375/submission/44891061
+#FFT, NTT - Q
+	https://codeforces.com/contest/438/submission/39451171
+#Partition formula - Q
+#Generating functions
+Gauss elimination - D - Done
+#Taylor expansion
+Count prime numbers up to N - D - Done
+
+#Dinic flow - Q
+#Mincost maxflow - Q
+Bounded flow - D - Done
+Mincost max-matching - Hungarian algorithm - D - Done
+General matching - D - Done
+Mincut undirected graph - StoerWagner - D - Done
+
+Directed minimum spanning tree - D
+Bridge & articulations - D - Done
+Stable marriage - D
+
+Treap - D - Done
+Big integer - D - Done
+#Splay
+Link cut tree - D - Cannot do
+#Heavy light decomposition
+
+System of linear equations - D - Done
+Extended Euclide - D - Done
+Euler phi - Q
+#Pollard Rho - Q
+
+#Suffix automata - Q
+Suffix array - D - Done
+Aho Corasick - D - Done
+Z-algorithm - D - Done
+KMP - D - Done
+Manacher - D - Done
+
+Convex Hull trick:
+	stack based - D - Quang knows it
+	IT - D - Done
+Knuth optimization - D
+
+#Geometry:
+	Point
+	Line
+	Circle
+	Plane
+	Convex hull
+	Rect in Rect
+
+#Voronoi diagram
+Lagrange interpolation - done
+Matrix canonical form / eigen-decomposition - done
+A-LCS - done
+Dual graph - done
+Mobius inversion - done
+Binary vector basis - done
+#Half plane intersection
+Link cut tree - done
+Fibonacci formula - done
+Catalan formula - done
+Palindromic tree - done
+#DP optimize DivideFFT
+Pell equation - done
+Cubic equation formula (RR) - done
+Green theorem - done
+#Karatsuba
+Burnside lemma - done
+#Hall theorem
+Center of mass polygon - done
+Hackenbush - done
