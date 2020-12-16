@@ -44,7 +44,7 @@ ITConvexHull.cc	Convex Hull IT
 LCA_O(1).cpp	LCA O(1)
 MoAlgo.cpp	Mo's algorithm
 MoTree.cpp	Mo's Tree
-splay_tree.cpp	Splay Tree
+splay_Tree.cpp	Splay Tree
 dsu_rollback.cpp	DSU Rollback
 BIT2D_op.cpp	BIT2D O(n.logn.logn)
 IT_beats.cpp	Segment Tree Beats
